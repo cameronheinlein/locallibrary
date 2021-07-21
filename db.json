@@ -1,0 +1,209 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "lowdb is awesome",
+      "published": true
+    },
+    {
+      "id": 1,
+      "title": "lowdb is awesome",
+      "published": true
+    },
+    {
+      "id": 2,
+      "title": "great",
+      "published": true
+    },
+    {
+      "id": 3,
+      "title": "neat",
+      "published": true
+    },
+    {
+      "id": 4,
+      "title": "superb",
+      "published": true
+    },
+    {
+      "id": "1",
+      "title": "ping",
+      "published": "false"
+    },
+    {
+      "id": "1",
+      "title": "ping",
+      "published": "false"
+    }
+  ],
+  "users": [
+    {
+      "name": "Garnett Beatty",
+      "dob": "1981-4-12",
+      "email": "Garnett_Beatty12@yahoo.com",
+      "password": "hzVd3scpL765jWn",
+      "phone": "1-764-391-4565",
+      "streetaddress": "136 Volkman Prairie",
+      "citystatezip": "West Candidobury, MT 13875",
+      "latitude": "-88.2227",
+      "longitude": "-79.4876",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mtolokonnikov/128.jpg"
+    },
+    {
+      "name": "Grady Hyatt",
+      "dob": "1984-8-10",
+      "email": "Grady31@hotmail.com",
+      "password": "KOoKMkWkVrSc7Jq",
+      "phone": "696-361-4381",
+      "streetaddress": "6766 Aimee Corner",
+      "citystatezip": "Kesslerborough, SD 19661-7396",
+      "latitude": "-11.4301",
+      "longitude": "-41.5315",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/chaabane_wail/128.jpg"
+    },
+    {
+      "name": "Dr. Delta Block",
+      "dob": "1979-10-2",
+      "email": "Delta_Block@yahoo.com",
+      "password": "uoh6ecli3207pu0",
+      "phone": "(410) 483-2877 x41458",
+      "streetaddress": "899 Block Ford",
+      "citystatezip": "Donnellyland, WI 86177-1201",
+      "latitude": "-69.1005",
+      "longitude": "-111.2296",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/swaplord/128.jpg"
+    },
+    {
+      "name": "Joey Dietrich",
+      "dob": "1965-8-13",
+      "email": "Joey71@gmail.com",
+      "password": "zMaTzGRKfOCSpyW",
+      "phone": "1-400-588-8504",
+      "streetaddress": "0501 Luisa Knolls",
+      "citystatezip": "New Garettmouth, NJ 66517-9796",
+      "latitude": "-89.3150",
+      "longitude": "135.0109",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/michaelabehsera/128.jpg"
+    },
+    {
+      "name": "Americo Gorczany",
+      "dob": "1948-2-10",
+      "email": "Americo.Gorczany35@yahoo.com",
+      "password": "wvNX4ZDtMl6Id2s",
+      "phone": "743.466.0643",
+      "streetaddress": "1791 Runolfsdottir Mountains",
+      "citystatezip": "Sydneyfurt, NE 92278",
+      "latitude": "69.2175",
+      "longitude": "-143.5330",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/depaulawagner/128.jpg"
+    },
+    {
+      "name": "Colten Heathcote",
+      "dob": "1985-12-15",
+      "email": "Colten.Heathcote@yahoo.com",
+      "password": "7xQRJJIPuN3Rijq",
+      "phone": "(242) 888-2113",
+      "streetaddress": "802 Brandon Landing",
+      "citystatezip": "Lake Gildaville, OK 21852-4248",
+      "latitude": "-38.9594",
+      "longitude": "113.8230",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/anthonysukow/128.jpg"
+    },
+    {
+      "name": "Pat Wolf",
+      "dob": "1950-7-12",
+      "email": "Pat.Wolf53@yahoo.com",
+      "password": "V8QqmKMrb6DILND",
+      "phone": "650.743.2845 x931",
+      "streetaddress": "196 Schowalter Passage",
+      "citystatezip": "East Kaitlynhaven, AZ 20786-9920",
+      "latitude": "53.8748",
+      "longitude": "127.2631",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/alxleroydeval/128.jpg"
+    },
+    {
+      "name": "Chance King",
+      "dob": "1979-6-12",
+      "email": "Chance52@gmail.com",
+      "password": "qbAfLUnY4jENwg9",
+      "phone": "(809) 227-8514 x08883",
+      "streetaddress": "42677 Jared Mills",
+      "citystatezip": "Taraberg, MO 41522",
+      "latitude": "4.0573",
+      "longitude": "159.3795",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/michaelabehsera/128.jpg"
+    },
+    {
+      "name": "Nigel Wyman",
+      "dob": "1978-3-18",
+      "email": "Nigel_Wyman95@gmail.com",
+      "password": "E14veAjOXWmaYUz",
+      "phone": "(739) 662-8698 x4530",
+      "streetaddress": "7310 Hirthe Expressway",
+      "citystatezip": "McCulloughchester, LA 79471",
+      "latitude": "-45.4860",
+      "longitude": "-119.1605",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/russell_baylis/128.jpg"
+    },
+    {
+      "name": "Faye Gulgowski",
+      "dob": "1962-3-26",
+      "email": "Faye76@gmail.com",
+      "password": "m7V89nWOCko1n1l",
+      "phone": "771.222.9395 x0203",
+      "streetaddress": "1407 Nayeli Lock",
+      "citystatezip": "New Louisaburgh, TX 84997",
+      "latitude": "69.2925",
+      "longitude": "149.1085",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ryanmclaughlin/128.jpg"
+    },
+    {
+      "name": "Alfredo Boyer",
+      "dob": "1987-8-17",
+      "email": "Alfredo18@hotmail.com",
+      "password": "dLAVBe8ETl73noS",
+      "phone": "846-529-9155 x9749",
+      "streetaddress": "07826 Rickey Hollow",
+      "citystatezip": "Krajcikside, RI 11891",
+      "latitude": "71.2595",
+      "longitude": "84.1257",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/chaabane_wail/128.jpg"
+    },
+    {
+      "name": "Brooks Torphy Sr.",
+      "dob": "1957-9-1",
+      "email": "Brooks.Torphy13@yahoo.com",
+      "password": "2AF0f2DG3WfuSey",
+      "phone": "(954) 462-2344 x338",
+      "streetaddress": "93566 Berry Fall",
+      "citystatezip": "Lake Alexanne, DE 62894-5525",
+      "latitude": "-57.3543",
+      "longitude": "114.9881",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/collegeman/128.jpg"
+    },
+    {
+      "name": "Ms. Carolina Carroll",
+      "dob": "1945-1-14",
+      "email": "Carolina.Carroll0@gmail.com",
+      "password": "XditEjH_TBBPhQV",
+      "phone": "508-353-7494 x0663",
+      "streetaddress": "7936 Jocelyn Villages",
+      "citystatezip": "East Rosaleeton, NY 45447-9634",
+      "latitude": "-55.2077",
+      "longitude": "-119.5826",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mgonto/128.jpg"
+    },
+    {
+      "name": "Mrs. Georgianna Marvin",
+      "dob": "1978-3-31",
+      "email": "Georgianna.Marvin@hotmail.com",
+      "password": "i2hi6L8lS2DGXUr",
+      "phone": "980.359.6157 x355",
+      "streetaddress": "3364 Bode Landing",
+      "citystatezip": "Lake Derektown, IA 08174-9936",
+      "latitude": "-25.8838",
+      "longitude": "-105.7228",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/nickfratter/128.jpg"
+    }
+  ]
+}
